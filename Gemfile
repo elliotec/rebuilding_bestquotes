@@ -1,3 +1,3 @@
 source 'https://www.rubygems.org'
 
-gem 'rulers'
+gem 'rulers', path: '../rulers'
